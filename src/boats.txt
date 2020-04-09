@@ -1,0 +1,51 @@
+AC G75945;Deckboat;HORIZON;Motorized Propulsion;SPEEDA 4HP;12/04/1999;9.6
+BX T85964;Sailboat2;LA TRINQUETTE;Sail Propulsion;Parson BML 5 CV;10/08/2010;26.7;20;1
+LR P08568;Sailboat2;TOUTAKROUM;Sail Propulsion;Evinrude ETEC G2 K115 L H.O.;10/23/1994;26;17;2
+LR H75943;Sailboat2;L'AULIA;Sail Propulsion;SUZUKI DF 2.5CV arbre court ;07/03/1992;30;20;3
+LR T99757;Sailboat1;LE PASSANT;Sail Propulsion;Mercury 3.5 CV;10/03/1998;17;15.8;1
+LR Q54733;Deckboat;NADJA;Motorized Propulsion;Parson BML 5 CV;09/11/2011;8
+LS T678895;Sailboat2;NEPTUNE;Sail Propulsion;Ocean bay F 2.5 M;06/27/1999;28.9;23.3;3
+LS L79633;Sailboat2;OCEANE;Sail Propulsion;Suzuki DF 50 A TL;02/10/1993;28;21;2
+MA G90443;Sailboat1;ORION;Sail Propulsion;Ocean bay F 2.5 M;07/03/2006;13;13;2
+DK R45763;Deckboat;OXYGENE;Motorized Propulsion;Mercury 3.5 CV;10/23/2010;6.2
+DP D89967;Sailboat2;PINUTS;Sail Propulsion;Seanovo F6 M Court;07/11/1997;26.3;23;4
+CC R89908;Deckboat;RISSO;Motorized Propulsion;Suzuki DF 50 A TL;02/03/1997;5.4
+AC T60084;Sailboat2;SOLAU;Sail Propulsion;Evinrude ETEC G2 300 L;03/27/2006;30;25.6;5
+BX F55632;Sailboat2;SLOWLY;Sail Propulsion;Mercury 4-temps F 2.5 M;11/10/1996;26;17;2
+BX T00663;Sailboat2;ULYSSE;Sail Propulsion;Seanovo F6 M Court;10/02/2011;28;23;3
+LR A57402;Deckboat;TOULINE;Motorized Propulsion;SPEEDA 4HP;07/07/2002;6.9
+LR D46759;Sailboat1;VENT DE SOLEIL;Sail Propulsion;Parson BML 5 CV;10/10/2006;12;12;2
+LR D44332;Deckboat;BELLE ET VENT;Motorized Propulsion;Suzuki DF150TL;12/23/2011;9.8
+LR M88053;Sailboat1;BOHÊME;Sail Propulsion;Mercury 4-temps F 2.5 M;06/27/2002;14;10;1
+LR J78533;Deckboat;CHOUAN;Motorized Propulsion;Suzuki DF 50 A TL;07/02/2012;10
+IO I45322;Sailboat1;CASSIOPEE;Sail Propulsion;Evinrude ETEC G2 K115 L H.O.;06/06/1994;21;16.8;2
+IO Q40038;Deckboat;DESIRE;Motorized Propulsion;Suzuki DF150TL;11/27/2007;7.5
+IO J75493;Sailboat1;IBIZA;Sail Propulsion;SPEEDA 4HP;12/23/2011;18;14;1
+AY G85044;Sailboat1;JUBUS;Sail Propulsion;Suzuki DF150TL;10/24/2001;19;16;2
+AY F78955;Sailboat1;HYPPOCAMPE;Sail Propulsion;Ocean bay F 2.5 M;11/07/2008;14;11;1
+AY D48994;Sailboat1;TRIAG;Sail Propulsion;Mercury 4-temps F 2.5 M;08/11/2012;17;15.3;1
+AY X90472;Sailboat1;TEMPO;Sail Propulsion;SPEEDA 4HP;01/23/1990;22;21;2
+LR P89553;Deckboat;RÊVE ERRANCE;Motorized Propulsion;Parson BML 5 CV;12/02/2011;22
+LR W88443;Deckboat;P'TIT LU;Motorized Propulsion;SUZUKI DF 2.5CV arbre court ;09/03/2011;9
+BR Z89955;Deckboat;PHB85;Motorized Propulsion;Evinrude ETEC G2 K115 L H.O.;11/24/1998;6
+MN B00432;Sailboat2;PENTAK;Sail Propulsion;Parson BML 5 CV;03/11/2011;26;17;2
+MA D89424;Sailboat1;PENTY;Sail Propulsion;Suzuki DF 50 A TL;12/11/2003;18.8;15;1
+NA D90532;Sailboat1;OLIVOS;Sail Propulsion;Mercury 3.5 CV;06/23/2011;11;9;1
+NA N48009;Sailboat1;NIRVANA;Sail Propulsion;Evinrude ETEC G2 300 L;08/03/2009;20;18.5;2
+NA J76658;Deckboat;MISCHIEVOUS;Motorized Propulsion;Mercury 4-temps F 2.5 M;11/27/2003;4
+NA O009759;Sailboat1;MERWEN;Sail Propulsion;SUZUKI DF 2.5CV arbre court ;08/24/2011;21;21;1
+LS L97432;Sailboat1;MARARA;Sail Propulsion;Seanovo F6 M Court;01/09/1998;14;15;1
+LS C85433;Sailboat1;FANFAN;Sail Propulsion;Mercury 4-temps F 2.5 M;11/27/2001;22;16;2
+LS N78944;Sailboat1;ELVIS;Sail Propulsion;Evinrude ETEC G2 300 L;11/24/2007;9;13;1
+LS V75995;Deckboat;COOK;Motorized Propulsion;Mercury 4-temps F 2.5 M;11/03/1993;6
+LR B68933;Sailboat1;CHRISTEPH;Sail Propulsion;SPEEDA 4HP;01/09/2007;18;18;2
+LR B89055;Deckboat;CHAOUI;Motorized Propulsion;Evinrude ETEC G2 K115 L H.O.;03/07/2003;6
+LR X89453;Deckboat;ISATIS;Motorized Propulsion;SPEEDA 4HP;04/11/1993;7
+LR D79944;Deckboat;JENETHO;Motorized Propulsion;Suzuki DF150TL;09/23/1999;8
+LR 085533;Sailboat1;DEWO;Sail Propulsion;Ocean bay F 2.5 M;07/24/2009;13;15;1
+LR N89443;Deckboat;LE RENARD;Motorized Propulsion;Evinrude ETEC G2 K115 L H.O.;08/27/2002;8
+LR P08644;Sailboat1;LE DAUPHIN;Sail Propulsion;Suzuki DF150TL;01/27/2007;24.9;23;2
+SN F73324;Sailboat1;LADY K;Sail Propulsion;SPEEDA 4HP;09/08/2002;19;22;3
+LS H84663;Sailboat1;KADOR;Sail Propulsion;Mercury 3.5 CV;07/03/2001;14;11;1
+IO P08447;Deckboat;OUKAE;Motorized Propulsion;Mercury 4-temps F 2.5 M;09/23/2003;10
+SM M90043;Sailboat1;PITCH;Sail Propulsion;Seanovo F6 M Court;02/02/2002;19;21;3
