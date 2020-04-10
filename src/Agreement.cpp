@@ -132,7 +132,6 @@ float Agreement::priceCalculation(){
         price = DAY_VISTOR_PRICE;
         price *= duration;
     }
-    cout <<"Price BEFOIRE"<<price<<endl;
     if(place->getType() == "Mooring Place"){
             price /= 2;
     }

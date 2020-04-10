@@ -59,7 +59,6 @@ void Receipt::generateReceipt(string folderPath){
         }
         else{
             dayOrMonthPrice /= stof(duration);
-            cout <<"PRICE BY DAY ALL INCLUSIVE :: "<<dayOrMonthPrice<<endl;
             quantityType = "Price /day";
             quantityNumber = "Quantity";
             if(stringAgreement["placeType"] == "FasteningRing Place"){
@@ -75,7 +74,6 @@ void Receipt::generateReceipt(string folderPath){
                     supplementaryFacts = true;
                 }
             }
-            cout << dayOrMonthPrice<<" ==DAYPRICE\n";
         }
 
         Date d = *date;

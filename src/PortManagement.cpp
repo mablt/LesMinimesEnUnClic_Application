@@ -659,7 +659,6 @@ bool PortManagement::loadAgreements(string fileName){
         int lineNumber = 0;
         list<string> receiptNumbers;
         while(getline(file, line)){
-            cout << "AGGG +++++++++++++++++++++++++++++++++++++++++++++\n";
             if (lineNumber == 1){
                 port->setReceiptIdCounter(line);
                 continue;
@@ -712,7 +711,6 @@ bool PortManagement::loadAgreements(string fileName){
                     }
                     monthNumber = data.at(0);
                     receiptNumber = data.at(1);
-                    cout << "RECIPT NUMBER ADDDED TO THE MAP :: "<<receiptNumber<<endl;
                     numberReceiptMap[stoi(monthNumber)] = receiptNumber;
                     if(receiptNumber != "")
                         receiptNumbers.push_back(receiptNumber);
